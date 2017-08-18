@@ -179,6 +179,11 @@ namespace M2SA.AppGenome.Data
             return result;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
         public virtual bool Insert(T model)
         {            
             model.LastModifiedTime = DateTime.Now;

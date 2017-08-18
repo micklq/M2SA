@@ -30,6 +30,13 @@ namespace M2SA.AppGenome.Data
         /// </summary>
         /// <param name="model"></param>
         /// <returns></returns>
+        bool Insert(T model);
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
         bool Save(T model);
         
         /// <summary>
