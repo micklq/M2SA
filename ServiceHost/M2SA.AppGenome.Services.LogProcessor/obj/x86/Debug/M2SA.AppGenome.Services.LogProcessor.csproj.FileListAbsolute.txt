@@ -1,0 +1,14 @@
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\LogProcessor\sqlmap\AppLog\LogStatisticItemRepository.sql.xml
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\LogProcessor\sqlmap\AppLog\LogEntryModuleRepository.sql.xml
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\LogProcessor\sqlmap\AppLog\LogLabRepository.sql.xml
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\LogProcessor\sqlmap\AppLog\AppBaseRepository.sql.xml
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\LogProcessor\appgenome.config
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\LogProcessor\M2SA.AppGenome.Services.LogProcessor.exe.config
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\LogProcessor\M2SA.AppGenome.Services.LogProcessor.xml
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\LogProcessor\M2SA.AppGenome.Services.LogProcessor.exe
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\LogProcessor\M2SA.AppGenome.Services.LogProcessor.pdb
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\LogProcessor\M2SA.AppGenome.Services.LogProcessor.exe.CodeAnalysisLog.xml
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\LogProcessor\M2SA.AppGenome.Services.LogProcessor.exe.lastcodeanalysissucceeded
+F:\51aspx\M2SA.AppGenome-master\src\ServiceHost\M2SA.AppGenome.Services.LogProcessor\obj\x86\Debug\M2SA.AppGenome.Services.LogProcessor.csprojResolveAssemblyReference.cache
+F:\51aspx\M2SA.AppGenome-master\src\ServiceHost\M2SA.AppGenome.Services.LogProcessor\obj\x86\Debug\M2SA.AppGenome.Services.LogProcessor.exe
+F:\51aspx\M2SA.AppGenome-master\src\ServiceHost\M2SA.AppGenome.Services.LogProcessor\obj\x86\Debug\M2SA.AppGenome.Services.LogProcessor.pdb

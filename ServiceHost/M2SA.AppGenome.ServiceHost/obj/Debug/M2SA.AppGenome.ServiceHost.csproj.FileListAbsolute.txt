@@ -1,0 +1,10 @@
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\-deploy.bat
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\appgenome.config
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\M2SA.AppGenome.ServiceHost.xml
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\M2SA.AppGenome.ServiceHost.exe
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\M2SA.AppGenome.ServiceHost.pdb
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\M2SA.AppGenome.ServiceHost.exe.CodeAnalysisLog.xml
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\M2SA.AppGenome.ServiceHost.exe.lastcodeanalysissucceeded
+F:\51aspx\M2SA.AppGenome-master\src\ServiceHost\M2SA.AppGenome.ServiceHost\obj\Debug\M2SA.AppGenome.ServiceHost.csprojResolveAssemblyReference.cache
+F:\51aspx\M2SA.AppGenome-master\src\ServiceHost\M2SA.AppGenome.ServiceHost\obj\Debug\M2SA.AppGenome.ServiceHost.exe
+F:\51aspx\M2SA.AppGenome-master\src\ServiceHost\M2SA.AppGenome.ServiceHost\obj\Debug\M2SA.AppGenome.ServiceHost.pdb

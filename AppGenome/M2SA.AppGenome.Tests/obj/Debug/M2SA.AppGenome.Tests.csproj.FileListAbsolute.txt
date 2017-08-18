@@ -1,0 +1,8 @@
+F:\51aspx\M2SA.AppGenome-master\bin\test\appgenome.config
+F:\51aspx\M2SA.AppGenome-master\bin\test\email.config
+F:\51aspx\M2SA.AppGenome-master\bin\test\domainSetting.config
+F:\51aspx\M2SA.AppGenome-master\bin\test\M2SA.AppGenome.Tests.dll
+F:\51aspx\M2SA.AppGenome-master\bin\test\M2SA.AppGenome.Tests.pdb
+F:\51aspx\M2SA.AppGenome-master\src\AppGenome\M2SA.AppGenome.Tests\obj\Debug\M2SA.AppGenome.Tests.dll
+F:\51aspx\M2SA.AppGenome-master\src\AppGenome\M2SA.AppGenome.Tests\obj\Debug\M2SA.AppGenome.Tests.pdb
+F:\51aspx\M2SA.AppGenome-master\src\AppGenome\M2SA.AppGenome.Tests\obj\Debug\M2SA.AppGenome.Tests.csprojResolveAssemblyReference.cache

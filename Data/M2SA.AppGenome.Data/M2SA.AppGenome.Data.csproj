@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{74A5959E-0600-400A-A1D6-2235D02E5122}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>M2SA.AppGenome.Data</RootNamespace>
+    <AssemblyName>M2SA.AppGenome.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\bin\debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>..\..\..\bin\debug\M2SA.AppGenome.Data.xml</DocumentationFile>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <CodeAnalysisRuleSet>..\..\..\res\CodeDesign_Rules_For_M2SA.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\bin\release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>..\..\..\bin\release\M2SA.AppGenome.Data.xml</DocumentationFile>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <CodeAnalysisRuleSet>..\..\..\res\CodeDesign_Rules_For_M2SA.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\lib\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArgumentAssert .cs" />
+    <Compile Include="DatabaseConfig.cs" />
+    <Compile Include="DatabaseProviderBase.cs" />
+    <Compile Include="DatabaseProviderFactory.cs" />
+    <Compile Include="DataSettings.cs" />
+    <Compile Include="DbParamsExtension.cs" />
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="MySql\MySqlHelper.cs" />
+    <Compile Include="SqlMap\IfPreprocessor.cs" />
+    <Compile Include="SqlMap\SqlModule.cs" />
+    <Compile Include="SqlWrapException.cs" />
+    <Compile Include="IDatabaseProvider.cs" />
+    <Compile Include="MySql\MySqlProvider.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleRepositoryBase.cs" />
+    <Compile Include="SqlHelper.cs" />
+    <Compile Include="SqlMap\IKeywordProcessor.cs" />
+    <Compile Include="SqlMap\LikeKeyProcessor.cs" />
+    <Compile Include="SqlMap\InKeyProcessor.cs" />
+    <Compile Include="SqlMap\KeywordProcessResult.cs" />
+    <Compile Include="SqlMap\PaginationSql.cs" />
+    <Compile Include="SqlMap\PaginationSqlParser.cs" />
+    <Compile Include="SqlMap\SqlMapping.cs" />
+    <Compile Include="SqlMap\SqlWrap.cs" />
+    <Compile Include="SqlMap\SqlMappingLoader.cs" />
+    <Compile Include="SqlServer\SqlServerProvider.cs" />
+    <Compile Include="SqlServer\SqlServerHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\AppGenome\M2SA.AppGenome\M2SA.AppGenome.csproj">
+      <Project>{682BEB8B-8F34-446D-B264-D26378E86014}</Project>
+      <Name>M2SA.AppGenome</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

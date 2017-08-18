@@ -1,0 +1,8 @@
+F:\51aspx\M2SA.AppGenome-master\bin\debug\M2SA.AppGenome.Data.xml
+F:\51aspx\M2SA.AppGenome-master\bin\debug\M2SA.AppGenome.Data.dll
+F:\51aspx\M2SA.AppGenome-master\bin\debug\M2SA.AppGenome.Data.pdb
+F:\51aspx\M2SA.AppGenome-master\bin\debug\M2SA.AppGenome.Data.dll.CodeAnalysisLog.xml
+F:\51aspx\M2SA.AppGenome-master\bin\debug\M2SA.AppGenome.Data.dll.lastcodeanalysissucceeded
+F:\51aspx\M2SA.AppGenome-master\src\Data\M2SA.AppGenome.Data\obj\Debug\M2SA.AppGenome.Data.csprojResolveAssemblyReference.cache
+F:\51aspx\M2SA.AppGenome-master\src\Data\M2SA.AppGenome.Data\obj\Debug\M2SA.AppGenome.Data.dll
+F:\51aspx\M2SA.AppGenome-master\src\Data\M2SA.AppGenome.Data\obj\Debug\M2SA.AppGenome.Data.pdb

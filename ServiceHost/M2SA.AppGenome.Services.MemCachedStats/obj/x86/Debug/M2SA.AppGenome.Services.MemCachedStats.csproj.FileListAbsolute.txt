@@ -1,0 +1,9 @@
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\services.MemCachedStats\appgenome.config
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\services.MemCachedStats\M2SA.AppGenome.Services.MemCachedStats.xml
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\services.MemCachedStats\M2SA.AppGenome.Services.MemCachedStats.exe
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\services.MemCachedStats\M2SA.AppGenome.Services.MemCachedStats.pdb
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\services.MemCachedStats\M2SA.AppGenome.Services.MemCachedStats.exe.CodeAnalysisLog.xml
+F:\51aspx\M2SA.AppGenome-master\bin\servicehost\services.MemCachedStats\M2SA.AppGenome.Services.MemCachedStats.exe.lastcodeanalysissucceeded
+F:\51aspx\M2SA.AppGenome-master\src\ServiceHost\M2SA.AppGenome.Services.MemCachedStats\obj\x86\Debug\M2SA.AppGenome.Services.MemCachedStats.exe
+F:\51aspx\M2SA.AppGenome-master\src\ServiceHost\M2SA.AppGenome.Services.MemCachedStats\obj\x86\Debug\M2SA.AppGenome.Services.MemCachedStats.pdb
+F:\51aspx\M2SA.AppGenome-master\src\ServiceHost\M2SA.AppGenome.Services.MemCachedStats\obj\x86\Debug\M2SA.AppGenome.Services.MemCachedStats.csprojResolveAssemblyReference.cache

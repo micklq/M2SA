@@ -1,0 +1,8 @@
+F:\51aspx\M2SA.AppGenome-master\src\Data\M2SA.AppGenome.Data.Tests\obj\Debug\M2SA.AppGenome.Data.Tests.csprojResolveAssemblyReference.cache
+F:\51aspx\M2SA.AppGenome-master\bin\test\data\sqlmap\test\TestRepository.sql.xml
+F:\51aspx\M2SA.AppGenome-master\bin\test\data\appgenome.config
+F:\51aspx\M2SA.AppGenome-master\bin\test\data\M2SA.AppGenome.Data.Tests.dll.config
+F:\51aspx\M2SA.AppGenome-master\bin\test\data\M2SA.AppGenome.Data.Tests.dll
+F:\51aspx\M2SA.AppGenome-master\bin\test\data\M2SA.AppGenome.Data.Tests.pdb
+F:\51aspx\M2SA.AppGenome-master\src\Data\M2SA.AppGenome.Data.Tests\obj\Debug\M2SA.AppGenome.Data.Tests.dll
+F:\51aspx\M2SA.AppGenome-master\src\Data\M2SA.AppGenome.Data.Tests\obj\Debug\M2SA.AppGenome.Data.Tests.pdb

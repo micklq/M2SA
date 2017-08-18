@@ -1,0 +1,8 @@
+F:\51aspx\M2SA.AppGenome-master\bin\debug\M2SA.AppGenome.Queues.xml
+F:\51aspx\M2SA.AppGenome-master\bin\debug\M2SA.AppGenome.Queues.dll
+F:\51aspx\M2SA.AppGenome-master\bin\debug\M2SA.AppGenome.Queues.pdb
+F:\51aspx\M2SA.AppGenome-master\bin\debug\M2SA.AppGenome.Queues.dll.CodeAnalysisLog.xml
+F:\51aspx\M2SA.AppGenome-master\bin\debug\M2SA.AppGenome.Queues.dll.lastcodeanalysissucceeded
+F:\51aspx\M2SA.AppGenome-master\src\Queues\M2SA.AppGenome.Queues\obj\Debug\M2SA.AppGenome.Queues.csprojResolveAssemblyReference.cache
+F:\51aspx\M2SA.AppGenome-master\src\Queues\M2SA.AppGenome.Queues\obj\Debug\M2SA.AppGenome.Queues.dll
+F:\51aspx\M2SA.AppGenome-master\src\Queues\M2SA.AppGenome.Queues\obj\Debug\M2SA.AppGenome.Queues.pdb

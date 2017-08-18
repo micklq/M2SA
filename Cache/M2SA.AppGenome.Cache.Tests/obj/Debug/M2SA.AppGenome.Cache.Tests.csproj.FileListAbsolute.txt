@@ -1,0 +1,6 @@
+F:\51aspx\M2SA.AppGenome-master\bin\test\cache\appgenome.config
+F:\51aspx\M2SA.AppGenome-master\bin\test\cache\M2SA.AppGenome.Cache.Tests.dll
+F:\51aspx\M2SA.AppGenome-master\bin\test\cache\M2SA.AppGenome.Cache.Tests.pdb
+F:\51aspx\M2SA.AppGenome-master\src\Cache\M2SA.AppGenome.Cache.Tests\obj\Debug\M2SA.AppGenome.Cache.Tests.csprojResolveAssemblyReference.cache
+F:\51aspx\M2SA.AppGenome-master\src\Cache\M2SA.AppGenome.Cache.Tests\obj\Debug\M2SA.AppGenome.Cache.Tests.dll
+F:\51aspx\M2SA.AppGenome-master\src\Cache\M2SA.AppGenome.Cache.Tests\obj\Debug\M2SA.AppGenome.Cache.Tests.pdb
