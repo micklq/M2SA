@@ -14,11 +14,11 @@ namespace M2SA.AppGenome.Data
         /// <summary>
         /// 
         /// </summary>
-        DateTime CreatedTime { get; set; }
+        DateTime? CreatedTime { get; set; }
         /// <summary>
         /// 
         /// </summary>
-        DateTime LastModifiedTime { get; set; }
+        DateTime? LastModifiedTime { get; set; }
     }
 
     /// <summary>

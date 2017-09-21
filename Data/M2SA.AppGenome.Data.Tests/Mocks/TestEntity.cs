@@ -18,8 +18,8 @@ namespace M2SA.AppGenome.Data.Tests.Mocks
 
         public PersistentState PersistentState { get; set; }
 
-        public DateTime CreatedTime { get; set; }
-        public DateTime LastModifiedTime { get; set; }
+        public DateTime? CreatedTime { get; set; }
+        public DateTime? LastModifiedTime { get; set; }
 		
 		public string Name { get; set; }
 		
