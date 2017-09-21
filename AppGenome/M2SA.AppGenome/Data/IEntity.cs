@@ -14,7 +14,7 @@ namespace M2SA.AppGenome.Data
         /// <summary>
         /// 
         /// </summary>
-        DateTime? CreatedTime { get; set; }
+        DateTime CreatedTime { get; set; }
         /// <summary>
         /// 
         /// </summary>

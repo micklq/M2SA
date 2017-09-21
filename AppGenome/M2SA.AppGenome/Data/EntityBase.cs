@@ -30,7 +30,7 @@ namespace M2SA.AppGenome.Data
         /// <summary>
         /// 
         /// </summary>
-        public DateTime? CreatedTime { get; set; }
+        public DateTime CreatedTime { get; set; }
         /// <summary>
         /// 
         /// </summary>

@@ -5,3 +5,4 @@ F:\51aspx\M2SA.AppGenome-master\bin\debug\M2SA.AppGenome.dll.CodeAnalysisLog.xml
 F:\51aspx\M2SA.AppGenome-master\src\AppGenome\M2SA.AppGenome\obj\Debug\M2SA.AppGenome.dll
 F:\51aspx\M2SA.AppGenome-master\src\AppGenome\M2SA.AppGenome\obj\Debug\M2SA.AppGenome.pdb
 F:\51aspx\M2SA.AppGenome-master\bin\debug\M2SA.AppGenome.dll.lastcodeanalysissucceeded
+F:\51aspx\M2SA.AppGenome-master\src\AppGenome\M2SA.AppGenome\obj\Debug\M2SA.AppGenome.csprojResolveAssemblyReference.cache
